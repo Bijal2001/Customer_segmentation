@@ -19,23 +19,23 @@ Understand behavior patterns for strategic planning.
 
 # Steps Performed
 1. Data Cleaning
-Handled missing values and standardized column names.
+* Handled missing values and standardized column names.
 
 2. Exploratory Data Analysis (EDA)
-Visualized key features and identified customer trends.
+* Visualized key features and identified customer trends.
 
 3. Feature Scaling
-Standardized numerical features using StandardScaler.
+* Standardized numerical features using StandardScaler.
 
 4. Clustering with K-Means
-Determined the optimal number of clusters using the Elbow Method and Silhouette Score.
-Segmented customers into distinct groups.
+* Determined the optimal number of clusters using the Elbow Method and Silhouette Score.
+* Segmented customers into distinct groups.
 
 5. Dimensionality Reduction with PCA
-Reduced feature dimensions for better visualization of clusters.
+* Reduced feature dimensions for better visualization of clusters.
 
 6. Cluster Profiling
-Interpreted the characteristics of each customer segment.
+* Interpreted the characteristics of each customer segment.
 
 # Key Insights
 * Discovered unique customer groups based on purchasing behavior and frequency.
