@@ -18,24 +18,23 @@ Understand behavior patterns for strategic planning.
 * Jupyter Notebook
 
 # Steps Performed
-* Data Cleaning
-
+1. Data Cleaning
 Handled missing values and standardized column names.
 
-1. Exploratory Data Analysis (EDA)
+2. Exploratory Data Analysis (EDA)
 Visualized key features and identified customer trends.
 
-2. Feature Scaling
+3. Feature Scaling
 Standardized numerical features using StandardScaler.
 
-3. Clustering with K-Means
+4. Clustering with K-Means
 Determined the optimal number of clusters using the Elbow Method and Silhouette Score.
 Segmented customers into distinct groups.
 
-4. Dimensionality Reduction with PCA
+5. Dimensionality Reduction with PCA
 Reduced feature dimensions for better visualization of clusters.
 
-5. Cluster Profiling
+6. Cluster Profiling
 Interpreted the characteristics of each customer segment.
 
 # Key Insights
